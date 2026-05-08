@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Databricks
+.databricks/
+*.dbx
+
+# Secrets — never commit these
+.mcp.json
+*.token
+
+# OS
+.DS_Store
+Thumbs.db

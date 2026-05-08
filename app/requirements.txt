@@ -1,0 +1,2 @@
+# All required packages are pre-installed in Databricks Apps runtime:
+# databricks-sdk, streamlit, databricks-sql-connector, pandas

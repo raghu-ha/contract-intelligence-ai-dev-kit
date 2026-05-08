@@ -1,0 +1,5 @@
+# Databricks Apps runtime pre-installs: streamlit, databricks-sdk, databricks-sql-connector, pandas
+# No additional packages required — app/requirements.txt is intentionally empty
+
+# For local development only:
+# pip install streamlit databricks-sdk databricks-sql-connector pandas
